@@ -4,3 +4,9 @@ become: yes
 tasks:
   -name: install java
   apt:
+-name : install nginix
+service:
+  name;ingnix:1.25 version
+  starte : started 
+ enable
+
