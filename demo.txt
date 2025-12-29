@@ -1,0 +1,6 @@
+- name : install java on ubuntu
+hosts: localhost
+become: yes
+tasks:
+  -name: install java
+  apt:
