@@ -6,13 +6,3 @@ tasks:
   apt:
 -name : install nginix
 service:
-  name;ingnix:1.25 version
-  starte : started 
- enable
-Pipeline{
-agent any 
-tools{
-maven 'maven3.9.11'
-}
-ahfksla huaajsjadwqh
-
