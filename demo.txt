@@ -6,6 +6,3 @@ tasks:
   apt:
 -name : install nginix
 service:
-
-
-
